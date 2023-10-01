@@ -1,2 +1,4 @@
-# No .py files for submission
-*.py
+# No other files for submission
+*
+!*.ipynb
+!*.csv
