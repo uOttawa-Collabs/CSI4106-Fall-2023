@@ -1,0 +1,16 @@
+*.svg
+*.pdf
+
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.lof
+
+*.bbl
+*.blg
+
+*.gz
